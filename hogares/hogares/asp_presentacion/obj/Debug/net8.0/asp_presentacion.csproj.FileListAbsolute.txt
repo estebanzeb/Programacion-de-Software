@@ -1,0 +1,52 @@
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\appsettings.json
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\asp_presentacion.staticwebassets.runtime.json
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\asp_presentacion.exe
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\asp_presentacion.deps.json
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\asp_presentacion.runtimeconfig.json
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\asp_presentacion.dll
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\asp_presentacion.pdb
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.AssemblyInfoInputs.cache
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.AssemblyInfo.cs
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.RazorAssemblyInfo.cache
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.RazorAssemblyInfo.cs
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\staticwebassets\msbuild.asp_presentacion.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\staticwebassets\msbuild.build.asp_presentacion.props
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.asp_presentacion.props
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.asp_presentacion.props
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\scopedcss\bundle\asp_presentacion.styles.css
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\scopedcss\projectbundle\asp_presentacion.bundle.scp.css
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.dll
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\refint\asp_presentacion.dll
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.pdb
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.genruntimeconfig.cache
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\ref\asp_presentacion.dll
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\lib_comunicaciones.dll
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\lib_presentaciones.dll
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\lib_utilidades.dll
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\lib_comunicaciones.pdb
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\lib_presentaciones.pdb
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\bin\Debug\net8.0\lib_utilidades.pdb
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.csproj.AssemblyReference.cache
+C:\Users\juanp\Desktop\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_pres.9948B68B.Up2Date
+D:\Documentos\Escritorio\PROGRAMACIÓN DE SOFTWAR\Teacher Code\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.csproj.AssemblyReference.cache
+D:\Documentos\Escritorio\PROGRAMACIÓN DE SOFTWAR\Teacher Code\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Escritorio\PROGRAMACIÓN DE SOFTWAR\Teacher Code\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.AssemblyInfoInputs.cache
+D:\Documentos\Escritorio\PROGRAMACIÓN DE SOFTWAR\Teacher Code\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.AssemblyInfo.cs
+D:\Documentos\Escritorio\PROGRAMACIÓN DE SOFTWAR\Teacher Code\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.csproj.CoreCompileInputs.cache
+D:\Documentos\Escritorio\PROGRAMACIÓN DE SOFTWAR\Teacher Code\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Escritorio\PROGRAMACIÓN DE SOFTWAR\Teacher Code\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.RazorAssemblyInfo.cache
+D:\Documentos\Escritorio\PROGRAMACIÓN DE SOFTWAR\Teacher Code\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.RazorAssemblyInfo.cs
+D:\Documentos\Escritorio\PROGRAMACIÓN DE SOFTWAR\Teacher Code\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.dll
+D:\Documentos\Escritorio\PROGRAMACIÓN DE SOFTWAR\Teacher Code\hogares\hogares\asp_presentacion\obj\Debug\net8.0\refint\asp_presentacion.dll
+D:\Documentos\Escritorio\PROGRAMACIÓN DE SOFTWAR\Teacher Code\hogares\hogares\asp_presentacion\obj\Debug\net8.0\asp_presentacion.pdb

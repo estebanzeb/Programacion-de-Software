@@ -107,23 +107,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Esteban Quintero\\.nuget\\packages\\": {},
+    "C:\\Users\\AA\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\Escritorio\\hogares\\lib_presentaciones\\lib_presentaciones.csproj",
+      "projectUniqueName": "C:\\Users\\AA\\Desktop\\hogares\\lib_presentaciones\\lib_presentaciones.csproj",
       "projectName": "lib_presentaciones",
-      "projectPath": "D:\\Documentos\\Escritorio\\hogares\\lib_presentaciones\\lib_presentaciones.csproj",
-      "packagesPath": "C:\\Users\\Esteban Quintero\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\Escritorio\\hogares\\lib_presentaciones\\obj\\",
+      "projectPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_presentaciones\\lib_presentaciones.csproj",
+      "packagesPath": "C:\\Users\\AA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_presentaciones\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Esteban Quintero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -139,11 +139,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Documentos\\Escritorio\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj": {
-              "projectPath": "D:\\Documentos\\Escritorio\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj"
+            "C:\\Users\\AA\\Desktop\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj": {
+              "projectPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj"
             },
-            "D:\\Documentos\\Escritorio\\hogares\\lib_entidades\\lib_entidades.csproj": {
-              "projectPath": "D:\\Documentos\\Escritorio\\hogares\\lib_entidades\\lib_entidades.csproj"
+            "C:\\Users\\AA\\Desktop\\hogares\\lib_entidades\\lib_entidades.csproj": {
+              "projectPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_entidades\\lib_entidades.csproj"
             }
           }
         }
@@ -152,11 +152,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -178,7 +173,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
