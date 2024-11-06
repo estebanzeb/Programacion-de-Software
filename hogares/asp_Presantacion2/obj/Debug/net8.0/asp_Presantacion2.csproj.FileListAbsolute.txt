@@ -1,0 +1,7 @@
+D:\Documentos\Escritorio\hogares\asp_Presantacion2\obj\Debug\net8.0\asp_Presantacion2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Escritorio\hogares\asp_Presantacion2\obj\Debug\net8.0\asp_Presantacion2.AssemblyInfoInputs.cache
+D:\Documentos\Escritorio\hogares\asp_Presantacion2\obj\Debug\net8.0\asp_Presantacion2.AssemblyInfo.cs
+D:\Documentos\Escritorio\hogares\asp_Presantacion2\obj\Debug\net8.0\asp_Presantacion2.csproj.CoreCompileInputs.cache
+D:\Documentos\Escritorio\hogares\asp_Presantacion2\obj\Debug\net8.0\asp_Presantacion2.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Escritorio\hogares\asp_Presantacion2\obj\Debug\net8.0\asp_Presantacion2.RazorAssemblyInfo.cache
+D:\Documentos\Escritorio\hogares\asp_Presantacion2\obj\Debug\net8.0\asp_Presantacion2.RazorAssemblyInfo.cs

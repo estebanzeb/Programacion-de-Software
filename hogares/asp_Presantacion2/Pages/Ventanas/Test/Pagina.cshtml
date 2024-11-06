@@ -1,0 +1,55 @@
+﻿@page
+@model asp_presentacion.Pages.Ventanas.Test.PaginaModel
+@{
+}
+<form method="POST"
+    enctype="multipart/form-data">
+    @Html.AntiForgeryToken()
+
+    <h2>Ventana de Test</h2>
+    
+    @if (ViewData.ContainsKey("Mensaje"))
+    {
+        @await Html.PartialAsync("../../Emergentes/Mensajes.cshtml")
+    }
+    
+    <div>
+        <div class="form-group">
+            <label class="col-lg-4 control-label">
+                Numero
+            </label>
+            <div class="col-lg-6">
+                <input id="nmNumero"
+                    class="cts_forms form-control"
+                    asp-for="@Model.Actual!.Numero" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-lg-4 control-label">
+                Nombre
+            </label>
+            <div class="col-lg-6">
+                <input id="nmNombre"
+                    class="cts_forms form-control"
+                    asp-for="@Model.Actual!.Nombre" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-lg-4 control-label">
+                Descripcion
+            </label>
+            <div class="col-lg-6">
+                <input id="nmDescripcion"
+                    class="cts_forms form-control"
+                    asp-for="@Model.Actual!.Descripcion" />
+            </div>
+        </div>
+
+        <input type="submit"
+            value="Guardar"
+            asp-page-handler="BtGuardar"
+            class="btn btn-secondary" />
+    </div>
+
+    @await Html.PartialAsync("Lista.cshtml")
+</form>

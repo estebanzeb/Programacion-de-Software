@@ -1,0 +1,47 @@
+﻿<div class="containers_vn panel panel-default">
+    <table class="tb_data table table-striped table-bordered table-hover">
+        <tr>
+            <th>
+                Numero
+            </th>
+            <th>
+                Nombre
+            </th>
+            <th>
+                Descripcion
+            </th>
+            <th>
+                Accion
+            </th>
+        </tr>
+        @if (Model != null && Model!.Lista != null)
+        {
+            @foreach (var elemento in Model!.Lista)
+            {
+                <tr>
+                    <td>
+                        @elemento.Numero
+                    </td>
+                    <td>
+                        @elemento.Nombre
+                    </td>
+                    <td>
+                        @elemento.Descripcion
+                    </td>
+                    <td>
+                        <input type="submit"
+                           value="Modicar"
+                           asp-page-handler="BtModificar"
+                           class="btn btn-secondary"
+                           asp-route-data="@elemento.Numero" />
+                        <input type="submit"
+                           value="Borrar"
+                           asp-page-handler="BtBorrarVal"
+                           class="btn btn-secondary"
+                           asp-route-data="@elemento.Numero" />
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+</div>
