@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8yU7TRFFMY8GAunmoJ68+MlIDLOuzIr+bLZ0cI5+BcRQ4TZNGqFDyWHwzVxn9Kh81FHWnavhtPx+ugUtndcB3A==",
+  "dgSpecHash": "aPUrF1SyBxE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AA\\Desktop\\hogares\\asp_presentacion\\asp_presentacion.csproj",
+  "projectFilePath": "D:\\Documentos\\Escritorio\\hogares\\asp_presentacion\\asp_presentacion.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\AA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Esteban Quintero\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

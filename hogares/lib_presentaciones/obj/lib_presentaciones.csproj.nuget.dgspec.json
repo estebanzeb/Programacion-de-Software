@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AA\\Desktop\\hogares\\lib_presentaciones\\lib_presentaciones.csproj": {}
+    "D:\\Documentos\\Escritorio\\hogares\\lib_presentaciones\\lib_presentaciones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AA\\Desktop\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj": {
+    "D:\\Documentos\\Escritorio\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AA\\Desktop\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj",
+        "projectUniqueName": "D:\\Documentos\\Escritorio\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj",
         "projectName": "lib_comunicaciones",
-        "projectPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj",
-        "packagesPath": "C:\\Users\\AA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_comunicaciones\\obj\\",
+        "projectPath": "D:\\Documentos\\Escritorio\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj",
+        "packagesPath": "C:\\Users\\Esteban Quintero\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\Escritorio\\hogares\\lib_comunicaciones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Esteban Quintero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\AA\\Desktop\\hogares\\lib_utilidades\\lib_utilidades.csproj": {
-                "projectPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_utilidades\\lib_utilidades.csproj"
+              "D:\\Documentos\\Escritorio\\hogares\\lib_utilidades\\lib_utilidades.csproj": {
+                "projectPath": "D:\\Documentos\\Escritorio\\hogares\\lib_utilidades\\lib_utilidades.csproj"
               }
             }
           }
@@ -43,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,24 +69,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\AA\\Desktop\\hogares\\lib_entidades\\lib_entidades.csproj": {
+    "D:\\Documentos\\Escritorio\\hogares\\lib_entidades\\lib_entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AA\\Desktop\\hogares\\lib_entidades\\lib_entidades.csproj",
+        "projectUniqueName": "D:\\Documentos\\Escritorio\\hogares\\lib_entidades\\lib_entidades.csproj",
         "projectName": "lib_entidades",
-        "projectPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_entidades\\lib_entidades.csproj",
-        "packagesPath": "C:\\Users\\AA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_entidades\\obj\\",
+        "projectPath": "D:\\Documentos\\Escritorio\\hogares\\lib_entidades\\lib_entidades.csproj",
+        "packagesPath": "C:\\Users\\Esteban Quintero\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\Escritorio\\hogares\\lib_entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Esteban Quintero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -103,6 +108,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -124,24 +134,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\AA\\Desktop\\hogares\\lib_presentaciones\\lib_presentaciones.csproj": {
+    "D:\\Documentos\\Escritorio\\hogares\\lib_presentaciones\\lib_presentaciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AA\\Desktop\\hogares\\lib_presentaciones\\lib_presentaciones.csproj",
+        "projectUniqueName": "D:\\Documentos\\Escritorio\\hogares\\lib_presentaciones\\lib_presentaciones.csproj",
         "projectName": "lib_presentaciones",
-        "projectPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_presentaciones\\lib_presentaciones.csproj",
-        "packagesPath": "C:\\Users\\AA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_presentaciones\\obj\\",
+        "projectPath": "D:\\Documentos\\Escritorio\\hogares\\lib_presentaciones\\lib_presentaciones.csproj",
+        "packagesPath": "C:\\Users\\Esteban Quintero\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\Escritorio\\hogares\\lib_presentaciones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Esteban Quintero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -157,11 +167,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\AA\\Desktop\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj": {
-                "projectPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj"
+              "D:\\Documentos\\Escritorio\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj": {
+                "projectPath": "D:\\Documentos\\Escritorio\\hogares\\lib_comunicaciones\\lib_comunicaciones.csproj"
               },
-              "C:\\Users\\AA\\Desktop\\hogares\\lib_entidades\\lib_entidades.csproj": {
-                "projectPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_entidades\\lib_entidades.csproj"
+              "D:\\Documentos\\Escritorio\\hogares\\lib_entidades\\lib_entidades.csproj": {
+                "projectPath": "D:\\Documentos\\Escritorio\\hogares\\lib_entidades\\lib_entidades.csproj"
               }
             }
           }
@@ -170,6 +180,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -191,24 +206,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\AA\\Desktop\\hogares\\lib_utilidades\\lib_utilidades.csproj": {
+    "D:\\Documentos\\Escritorio\\hogares\\lib_utilidades\\lib_utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AA\\Desktop\\hogares\\lib_utilidades\\lib_utilidades.csproj",
+        "projectUniqueName": "D:\\Documentos\\Escritorio\\hogares\\lib_utilidades\\lib_utilidades.csproj",
         "projectName": "lib_utilidades",
-        "projectPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_utilidades\\lib_utilidades.csproj",
-        "packagesPath": "C:\\Users\\AA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AA\\Desktop\\hogares\\lib_utilidades\\obj\\",
+        "projectPath": "D:\\Documentos\\Escritorio\\hogares\\lib_utilidades\\lib_utilidades.csproj",
+        "packagesPath": "C:\\Users\\Esteban Quintero\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\Escritorio\\hogares\\lib_utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Esteban Quintero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -230,6 +245,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -257,7 +277,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

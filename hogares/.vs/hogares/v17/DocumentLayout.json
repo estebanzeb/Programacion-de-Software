@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\Escritorio\\hogares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20D9D5-140C-4C00-825C-A953D0E2BBF2}|asp_presentacion\\asp_presentacion.csproj|d:\\documentos\\escritorio\\hogares\\asp_presentacion\\pages\\ventanas\\test2\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF20D9D5-140C-4C00-825C-A953D0E2BBF2}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\test2\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20D9D5-140C-4C00-825C-A953D0E2BBF2}|asp_presentacion\\asp_presentacion.csproj|d:\\documentos\\escritorio\\hogares\\asp_presentacion\\pages\\ventanas\\test\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF20D9D5-140C-4C00-825C-A953D0E2BBF2}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\test\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20D9D5-140C-4C00-825C-A953D0E2BBF2}|asp_presentacion\\asp_presentacion.csproj|d:\\documentos\\escritorio\\hogares\\asp_presentacion\\pages\\ventanas\\test2\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF20D9D5-140C-4C00-825C-A953D0E2BBF2}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\test2\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20D9D5-140C-4C00-825C-A953D0E2BBF2}|asp_presentacion\\asp_presentacion.csproj|d:\\documentos\\escritorio\\hogares\\asp_presentacion\\pages\\ventanas\\test\\pagina.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF20D9D5-140C-4C00-825C-A953D0E2BBF2}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\test\\pagina.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pagina.cshtml.cs",
+              "DocumentMoniker": "D:\\Documentos\\Escritorio\\hogares\\asp_presentacion\\Pages\\Ventanas\\Test\\Pagina.cshtml.cs",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Test\\Pagina.cshtml.cs",
+              "ToolTip": "D:\\Documentos\\Escritorio\\hogares\\asp_presentacion\\Pages\\Ventanas\\Test\\Pagina.cshtml.cs",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Test\\Pagina.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:36:06.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Documentos\\Escritorio\\hogares\\asp_presentacion\\Pages\\Ventanas\\Test2\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Test2\\Index.cshtml.cs",
+              "ToolTip": "D:\\Documentos\\Escritorio\\hogares\\asp_presentacion\\Pages\\Ventanas\\Test2\\Index.cshtml.cs*",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Test2\\Index.cshtml.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:36:03.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "D:\\Documentos\\Escritorio\\hogares\\asp_presentacion\\Pages\\Ventanas\\Test\\Lista.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Test\\Lista.cshtml",
+              "ToolTip": "D:\\Documentos\\Escritorio\\hogares\\asp_presentacion\\Pages\\Ventanas\\Test\\Lista.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Test\\Lista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T00:58:38.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "D:\\Documentos\\Escritorio\\hogares\\asp_presentacion\\Pages\\Ventanas\\Test2\\Listar.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Test2\\Listar.cshtml",
+              "ToolTip": "D:\\Documentos\\Escritorio\\hogares\\asp_presentacion\\Pages\\Ventanas\\Test2\\Listar.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Test2\\Listar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T00:37:05.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
