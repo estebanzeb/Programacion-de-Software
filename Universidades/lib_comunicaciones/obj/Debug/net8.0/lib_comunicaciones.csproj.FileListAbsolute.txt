@@ -1,0 +1,17 @@
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.deps.json
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.dll
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.pdb
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.AssemblyInfoInputs.cache
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.AssemblyInfo.cs
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.CoreCompileInputs.cache
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.dll
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\obj\Debug\net8.0\refint\lib_comunicaciones.dll
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.pdb
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\obj\Debug\net8.0\ref\lib_comunicaciones.dll
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\bin\Debug\net8.0\lib_entidades.dll
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\bin\Debug\net8.0\lib_utilidades.dll
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\bin\Debug\net8.0\lib_entidades.pdb
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\bin\Debug\net8.0\lib_utilidades.pdb
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.AssemblyReference.cache
+D:\Documentos\Escritorio\Universidades\lib_comunicaciones\obj\Debug\net8.0\lib_comu.F975EA67.Up2Date

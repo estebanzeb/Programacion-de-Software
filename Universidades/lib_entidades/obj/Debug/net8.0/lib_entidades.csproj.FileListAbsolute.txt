@@ -1,0 +1,11 @@
+D:\Documentos\Escritorio\Universidades\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+D:\Documentos\Escritorio\Universidades\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+D:\Documentos\Escritorio\Universidades\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+D:\Documentos\Escritorio\Universidades\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Escritorio\Universidades\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+D:\Documentos\Escritorio\Universidades\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+D:\Documentos\Escritorio\Universidades\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+D:\Documentos\Escritorio\Universidades\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+D:\Documentos\Escritorio\Universidades\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+D:\Documentos\Escritorio\Universidades\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+D:\Documentos\Escritorio\Universidades\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll

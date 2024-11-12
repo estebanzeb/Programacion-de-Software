@@ -1,0 +1,12 @@
+D:\Documentos\Escritorio\Universidades\lib_utilidades\bin\Debug\net8.0\lib_utilidades.deps.json
+D:\Documentos\Escritorio\Universidades\lib_utilidades\bin\Debug\net8.0\lib_utilidades.dll
+D:\Documentos\Escritorio\Universidades\lib_utilidades\bin\Debug\net8.0\lib_utilidades.pdb
+D:\Documentos\Escritorio\Universidades\lib_utilidades\obj\Debug\net8.0\lib_utilidades.csproj.AssemblyReference.cache
+D:\Documentos\Escritorio\Universidades\lib_utilidades\obj\Debug\net8.0\lib_utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Escritorio\Universidades\lib_utilidades\obj\Debug\net8.0\lib_utilidades.AssemblyInfoInputs.cache
+D:\Documentos\Escritorio\Universidades\lib_utilidades\obj\Debug\net8.0\lib_utilidades.AssemblyInfo.cs
+D:\Documentos\Escritorio\Universidades\lib_utilidades\obj\Debug\net8.0\lib_utilidades.csproj.CoreCompileInputs.cache
+D:\Documentos\Escritorio\Universidades\lib_utilidades\obj\Debug\net8.0\lib_utilidades.dll
+D:\Documentos\Escritorio\Universidades\lib_utilidades\obj\Debug\net8.0\refint\lib_utilidades.dll
+D:\Documentos\Escritorio\Universidades\lib_utilidades\obj\Debug\net8.0\lib_utilidades.pdb
+D:\Documentos\Escritorio\Universidades\lib_utilidades\obj\Debug\net8.0\ref\lib_utilidades.dll

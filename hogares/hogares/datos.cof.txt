@@ -1,3 +1,0 @@
-{
-	"ConectionString": "server=JOHA_SANCHEZ\\SQLEXPRESS;database=db_hogares;Integrated Security=true;TrustServerCertificate=true;"
-}

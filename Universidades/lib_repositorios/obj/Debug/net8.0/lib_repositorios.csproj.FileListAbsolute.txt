@@ -1,0 +1,15 @@
+D:\Documentos\Escritorio\Universidades\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+D:\Documentos\Escritorio\Universidades\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+D:\Documentos\Escritorio\Universidades\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+D:\Documentos\Escritorio\Universidades\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Escritorio\Universidades\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+D:\Documentos\Escritorio\Universidades\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+D:\Documentos\Escritorio\Universidades\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+D:\Documentos\Escritorio\Universidades\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+D:\Documentos\Escritorio\Universidades\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+D:\Documentos\Escritorio\Universidades\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+D:\Documentos\Escritorio\Universidades\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+D:\Documentos\Escritorio\Universidades\lib_repositorios\bin\Debug\net8.0\lib_entidades.dll
+D:\Documentos\Escritorio\Universidades\lib_repositorios\bin\Debug\net8.0\lib_entidades.pdb
+D:\Documentos\Escritorio\Universidades\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+D:\Documentos\Escritorio\Universidades\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
